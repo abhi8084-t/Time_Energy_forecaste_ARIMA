@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+streamlit
+requests
